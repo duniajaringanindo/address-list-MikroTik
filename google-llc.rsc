@@ -4,7 +4,7 @@
 # Generated at 6 July 2020 14:14:16 WIB ... 624 NETWORK IP
 # Import from: https://ipinfo.io/AS15169
 
-/sys note set show-at-login=yes note="Using google-llc.rsc from ttps://duniajaringanindo.blogspot.com, 6 July 2020 14:14:16 WIB, 624 lines."
+/sys note set show-at-login=yes note="Using google-llc.rsc from https://duniajaringanindo.blogspot.com, 6 July 2020 14:14:16 WIB, 624 lines."
 
 /ip firewall address-list
 add address=104.134.88.0/24 list=LLC-GOOGLE
