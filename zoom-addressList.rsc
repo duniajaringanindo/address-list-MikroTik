@@ -1,3 +1,5 @@
+#ip address server zoom app video conference
+
 /ip firewall address-list
 add address=3.7.35.0/25 list=zoom_ip
 add address=3.21.137.128/25 list=zoom_ip
