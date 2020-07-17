@@ -9,7 +9,7 @@
 /ip firewall address-list
 add address=104.134.88.0/24 list=LLC-GOOGLE
 add address=104.134.92.0/24 list=LLC-GOOGLE
-add address=1104.134.93.0/24 list=LLC-GOOGLE
+add address=104.134.93.0/24 list=LLC-GOOGLE
 add address=104.154.0.0/15 list=LLC-GOOGLE
 add address=104.154.0.0/19 list=LLC-GOOGLE
 add address=104.154.128.0/19 list=LLC-GOOGLE
@@ -207,7 +207,7 @@ add address=172.217.31.0/24 list=LLC-GOOGLE
 add address=172.217.4.0/24 list=LLC-GOOGLE
 add address=172.217.5.0/24 list=LLC-GOOGLE
 add address=172.217.56.0/21 list=LLC-GOOGLE
-add address=172.217.6.0/24 ist=LLC-GOOGLE
+add address=172.217.6.0/24 list=LLC-GOOGLE
 add address=172.217.7.0/24 list=LLC-GOOGLE
 add address=172.217.8.0/24 list=LLC-GOOGLE
 add address=172.217.9.0/24 list=LLC-GOOGLE
@@ -471,7 +471,7 @@ add address=35.206.64.0/18 list=LLC-GOOGLE
 add address=35.207.0.0/18 list=LLC-GOOGLE
 add address=35.207.128.0/18 list=LLC-GOOGLE
 add address=35.207.64.0/18 list=LLC-GOOGLE
-add address=35.208.0.0/15 ist=LLC-GOOGLE
+add address=35.208.0.0/15 list=LLC-GOOGLE
 add address=35.210.0.0/16 list=LLC-GOOGLE
 add address=35.211.0.0/16 list=LLC-GOOGLE
 add address=35.212.0.0/17 list=LLC-GOOGLE
